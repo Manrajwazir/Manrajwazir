@@ -11,7 +11,7 @@
 <!-- Single dynamic element: typing SVG with real lines -->
 <p align="center">
   <a href="https://github.com/Manrajwazir">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=560&lines=Turning+worksite+cameras+into+compliance+systems;Computer+vision+%C2%B7+edge+%C2%B7+cloud;Co-founder+%40+All+Clear+Inc.;Mitacs+%2F+Labs4+research+commercialization" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=560&lines=Turning+worksite+cameras+into+compliance+system;Computer+vision+%C2%B7+edge+%C2%B7+cloud;Co-founder+%40+All+Clear+Inc.;Mitacs+%2F+Labs4+research+commercialization" alt="Typing SVG" />
   </a>
 </p>
 
